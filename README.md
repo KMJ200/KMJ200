@@ -25,11 +25,11 @@ $ sudo apt update
 $ sudo apt install python3 python3-pip
 
 2. 가상 환경을 생성하고 활성화하세요.
-3. 
+
 $ python3 -m venv venv
 $ source venv/bin/activate
 
-5. Django 및 관련 패키지를 설치하세요.
+3. Django 및 관련 패키지를 설치하세요.
 
 (venv) $ pip install django djangorestframework
 
@@ -45,7 +45,7 @@ $ source venv/bin/activate
 (venv) $ python manage.py migrate
 
 6. 개발 서버를 시작하세요.
-7. 
+   
 (venv) $ python manage.py runserver
 
 
