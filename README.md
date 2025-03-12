@@ -78,7 +78,7 @@
 
 
 ## 📚 Experience
-- **🎓 Gachon University** (Aug. 2025), Major in AI
+- **🎓 Gachon University** (Graduation Expected: Aug. 2025), Major in AI
 - **Gachon SW Academy 5th** (Sep. 2024 - Feb. 2025)
 
 <br>
