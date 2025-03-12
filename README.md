@@ -74,6 +74,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+
 <br>
 
 
@@ -82,9 +83,6 @@
 - **Gachon SW Academy 5th** (Sep. 2024 - Feb. 2025)
 
 <br>
-
-## 📊 GitHub Stats
-![KMJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMJ200&theme=swift&show_icons=true)
 
 <div>
 
