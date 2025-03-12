@@ -1,4 +1,10 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=33312d&text=강민재(KMJ200)&height=180&fontSize=60&desc=프론트엔드백엔드개발자&descAlignY=75&descAlign=60)
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=240&text=MinJae's%20Github&animation=&fontColor=FFFFFF&fontSize=60"
+    alt="MinJae's Github"
+  />
+</div>
+
 
 <div align="right">
   
