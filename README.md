@@ -89,7 +89,6 @@
 ## 🏆 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FLEX-CODEPING&repo=FLEX-FE&theme=swift)](https://github.com/FLEX-CODEPING/FLEX-FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KMJ200&repo=TikiTaka-BE&theme=swift)](https://github.com/KMJ200/TikiTaka-BE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KMJ200&repo=Database_instagram_teamB&theme=swift)](https://github.com/KMJ200/Database_instagram_teamB)
 
 </div>
 <br>
