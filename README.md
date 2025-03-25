@@ -7,7 +7,7 @@
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKMJ200&count_bg=%23909090&title_bg=%23393939&icon=github.svg&icon_color=%23D9D9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj104506@gachon.ac.kr)](mailto:kmj104506@gachon.ac.kr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ai-소프트웨어학부-인공지능전공-강민재-304195345/)](https://www.linkedin.com/in/ai-소프트웨어학부-인공지능전공-강민재-304195345/)
   
